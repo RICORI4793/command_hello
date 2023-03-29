@@ -1,9 +1,8 @@
 // For command line git tutorial
-// Local repository modification
+// First: GitHub modification
+// Second: Local repository mkdification
 
 print("Hello World")
 print("Tell your world")
 print("Tell his world")
 print("Tell her world")
-
-
